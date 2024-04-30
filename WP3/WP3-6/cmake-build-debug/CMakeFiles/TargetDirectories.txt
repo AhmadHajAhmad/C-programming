@@ -1,0 +1,3 @@
+/Users/ahmadhajahmad/Desktop/EmbeddedSystem/WP3-6/cmake-build-debug/CMakeFiles/WP3_6.dir
+/Users/ahmadhajahmad/Desktop/EmbeddedSystem/WP3-6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ahmadhajahmad/Desktop/EmbeddedSystem/WP3-6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
